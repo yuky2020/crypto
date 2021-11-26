@@ -10,3 +10,4 @@ jobs:
         uses: dante-ev/latex-action@latest
         with:
           root_file: notes/root.tex
+          working_directory: notes/
